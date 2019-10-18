@@ -1,0 +1,150 @@
+1.what is a Build & Release ?
+2.how devops related to Build & Release ?
+3.what are roles?which role you have in Build & Release engineer?
+4.what is CI/CD ?listout tools ? which tools are you used in CI/CD ?
+5.how to work in your project ? what is error do u face in it ? Remedy?
+6.what is a cloud? cloud managemental?cloud environmental?cloud managemental setup?
+7.how cloud managemental helps the Devops culture?
+8.what is Devops?uses?working process?
+9.Designed and created multiple deployment strategies using CI/CD ?
+10.what is configuration management tools?list out some tools?
+11.Configuration management tool with remote execution to ensure
+zero downtime and shortened automated deployments?
+
+
+Personal Question
+===================
+##i have only one server ...if the server is down then can you up server ? or crash 
+how can you back up the data?
+
+1.how can backup the data in linux ? what are the commands are you in it ?
+
+2.what is jenkins?how jenkins setup?
+3.what is Configure and integrate Jenkins as the integration tool  ?
+
+4.what is git?similar to git?
+5.difference between git and github?git vs SVN ? 
+6.GitHub as the source code management system ?
+Worked with Application teams closely 
+7.To understand their process for automating their Apps
+to New Pipeline using GitHub,Ant, Maven, Jenkins, Docker ?
+
+8.what is maven?
+9.Installed, Configured and Administered Jenkins as Continuous Integration Tool ?
+10.Troubleshoot the build issue during the Jenkins build process 
+and Developed build and deployment scripts using ANT, MAVEN as build tools in Jenkins?
+11.Jenkins to move from one environment to other environments ?
+12.Integrated Maven, Jenkins for the builds as the Continuous Integration process ?
+13.Configured Tomcat application server for hosting webapps? 
+14.Configured plug-ins for the integration tool to the version control tool?
+Source code management is performed using Git from master repository 
+and knowledge on Container management using Dockerfiles in creating images ?
+15.what is dockerfile?sample Dockerfile ? command used in dockerfile ?
+Worked to setup Jenkins as a service inside the Docker swarm cluster 
+16.To reduce the failover downtime to minutes and to automate the Docker containers deployment 
+without using configuration management tool.
+17.Experience in Branching, Rebasing, Merging and maintaining the version across the environments working on SCM tools like GitHub.
+18.difference b/w branching ,merging and Rebasing ?
+19.Managed environments DEV,  QA, UAT and Pre-Prod for various releases and designed instance strategies.
+20.Configure and maintaining monitoring tools like Splunk. 
+21.Creating and Managing Virtual Machines in VMWare and setting up communication with the help of Endpoints.
+
+	AWS
+=========================
+1.What is AWS?importance ?
+2.Creating EC2 instances, 
+3.taking image backup, volume backup as needed ?
+4.Hands on experience on AWS components like EC2, EBS, ELB, S3, Cloudwatch, Autoscaling, IAM ?
+5.Leverage AWS managed services like EC2, Simple Storage Service, EBS, IAM, Security Groups ?
+6.Configuring Elastic Load Balancers (ELB) for distributing incoming application 
+traffic across multiple EC2 instances.
+7.Creating snapshots, AMIs, Elastic IPs and managing EBS volumes.
+8.Configure horizontal scaling: Scale in and out using Auto Scaling, 
+9.add and remove instance as needed to handle the growing workload.
+
+
+PROFESSIONAL EXPERIENCE:
+=============================
+
+Working as a Software Engineer for SONY India Software Centre Pvt Ltd, Bangalore from April 2017 to Till Date.
+
+Worked as a System Analyst for Mindtree Limited, Bangalore from Aug 2015 to March 2017.
+
+1.what is Ant?ANT STANDS ?how it used?where it is used?
+2.what is Maven?details of Maven?
+3.difference b/w Ant and Maven?
+4.what is plug-in ? where can found ? where it can be used ?
+5.what are plug-in  u  have used in it ?
+6.Configured plug-ins for the integration tool to the version control tool ?
+7.what is an Eclipse ? uses ?
+8.Extensively used Maven tool to do the builds, integrated Maven to Eclipse.
+9.Integrated Maven, Jenkins for the builds as the Continuous Integration process?
+10.Configured application servers (Tomcat) to deploy the code ? 
+11.Created and configured multiple instances on Tomcat Server for different teams ?
+12.Configured Tomcat application server for hosting webapps ?
+13.Build Java code in different Jenkins servers as per the schedule ? 
+14.When required applied patches as per the release process.
+15.For new applications, work with development team to get the requirements of application
+ build and deployment process.
+16.Prepared and Maintained Build, Release and Deployment documents ?
+17.Good Understanding of Software Development Life Cycle ?
+
+@@@Attended sprint planning sessions and daily sprint stand-up meetings ?
+18.After complete of the scripts development and process setup ? 
+  execute the builds and deployments to all above environments based on weekly scheduled build calendar ?
+
+project  2
+===========================
+
+1.Designing and implementing fully automated server build, management, monitoring and 
+  deployment solutions spanning multiple platforms, tools 
+  and technologies including Jenkins Nodes/Agents, Amazon EC2 and packaging, deployment and testing.
+2.Installation and configuration of Git,
+ merging code from develop branch to master branch and make it ready for deployment.
+3.Creating tag, branch & setting up projects & build plans in CI tool (Jenkins).
+4.Builds and deploy of code to different environment.
+5.Involved in Deployment of the application using Tomcat.
+
+
+6.Maintaining and ensuring stringent adherence to quality standards,
+ norms & practices, identifying gaps and taking corrective administrative actions.
+7.Responsible for nightly and release builds and regression testing. Environment of Java, on Linux.
+
+
+
+8.Making of System/Process Automation through Shell Scripting.
+9.Migrating the Jenkins version from lower to higher.
+10.Configured Yum at Server / client side for packet management. 
+11.Project completely based on agile methodology.
+
+
+project 3
+==========================
+
+1.Installation, configuration and administration of Red Hat Linux servers and support for Servers ?  
+2.Provided 24x7 System Administration support for 300+ Red Hat Linux 3.x, 4 ?
+ xservers and resolved trouble tickets on shift rotation basis ?
+
+3.Shell scripting for database startups, backups using bash shell scripting ?
+
+4.Monitoring system resources, logs, disk usage, scheduling backups and restore ?
+
+5.Day to day ticket resolving & submit CRQ based on user requirement ?
+
+6.Set up Quotas for the user accounts & limiting the disk space usage ?
+
+7.Responsible for scheduling jobs using crontab ?
+
+8.Responsible for configuring and managing Squid server in Linux ?
+
+9.Rpm management using Opsware ?
+
+10.Install and support user requested rpm’s whenever it is required ?
+
+11.Perform day to day Linux administration such as user accounts,
+ logon scripts, directory services, file system shares, permissions ?
+
+12.Troubleshooting Backup and Restore problems Creation of LVMs on SAN using Linux utilities ?
+
+13.Wrote Technical documentation for various projects and
+ worked with Technical writer to finalize the documents  ?
